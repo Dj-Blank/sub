@@ -1,0 +1,13 @@
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\bin\Debug\netcoreapp3.1\ProjectSub.exe
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\bin\Debug\netcoreapp3.1\ProjectSub.deps.json
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\bin\Debug\netcoreapp3.1\ProjectSub.runtimeconfig.json
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\bin\Debug\netcoreapp3.1\ProjectSub.runtimeconfig.dev.json
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\bin\Debug\netcoreapp3.1\ProjectSub.dll
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\bin\Debug\netcoreapp3.1\ProjectSub.pdb
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\obj\Debug\netcoreapp3.1\ProjectSub.csprojAssemblyReference.cache
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\obj\Debug\netcoreapp3.1\ProjectSub.AssemblyInfoInputs.cache
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\obj\Debug\netcoreapp3.1\ProjectSub.AssemblyInfo.cs
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\obj\Debug\netcoreapp3.1\ProjectSub.csproj.CoreCompileInputs.cache
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\obj\Debug\netcoreapp3.1\ProjectSub.dll
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\obj\Debug\netcoreapp3.1\ProjectSub.pdb
+C:\Users\33615\source\repos\ProjectSub\ProjectSub\obj\Debug\netcoreapp3.1\ProjectSub.genruntimeconfig.cache
